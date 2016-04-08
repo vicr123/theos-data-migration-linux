@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>theosicon.svg</file>
+        <file>icon.svg</file>
+    </qresource>
+</RCC>
