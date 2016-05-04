@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=theOS Data Migration Tool
+GenericName=Data Migration
+Exec=datamigration
+Icon=datamigration
